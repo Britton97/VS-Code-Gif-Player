@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "imvFAXOWkjA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Britton\\Desktop\\Programming 1415\\Gif_Player\\VS-Code-Gif-Player\\Gif_Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Britton\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\Britton\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
